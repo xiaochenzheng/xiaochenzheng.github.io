@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/cv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/publications/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://xiaochenzheng.github.io/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://xiaochenzheng.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://xiaochenzheng.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://xiaochenzheng.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://xiaochenzheng.github.io/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://xiaochenzheng.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://xiaochenzheng.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://xiaochenzheng.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://xiaochenzheng.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://xiaochenzheng.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://xiaochenzheng.github.io/"
+                />
+  </url>
+  
+</urlset>
