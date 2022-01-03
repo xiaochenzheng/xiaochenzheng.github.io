@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/about/</guid>
-      <description>Hello? Hello! Is anyone there???</description>
+      <description>About me    I am a cognitive neuroscientist who&amp;rsquo;s always excited about the cognitive control processes in the brain, especially how they are shared between language and other cognitive systems.
+Currently, I am a postdoctoral researcher at the Donders Institute for Brain, Cognition and Behaviour, investigating the neural and cognitive mechanism of inference in language and action planning. I joined the Motivation &amp;amp; Cognitive Control lab in 2019, working with Roshan Cools, Hanneke den Ouden, and Mona Garvert.</description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/contact/</guid>
-      <description>Haha check the home page you will figure out how to find me. Good luck!</description>
+      <description>Contact me    I am usually quite reachable by email, xiaochen dot zheng at donders dot ru dot nl
+Cannot risk any auto-reply? Then check the homepage and hope you will figure out how to find me faster. Good luck!</description>
     </item>
     
     <item>
@@ -30,7 +32,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/cv/</guid>
-      <description>Under construction&amp;hellip;</description>
+      <description>CV    Wanna know more? You can find my CV here.
+Last updated 2 January 2022.
+  #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
     <item>
@@ -39,7 +43,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/projects/</guid>
-      <description>Under construction&amp;hellip;1, 2, 3!</description>
+      <description>Projects    Under construction&amp;hellip;
+Come back later (or pm me to help fighting my procrastination)!</description>
     </item>
     
     <item>
@@ -48,7 +53,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/publications/</guid>
-      <description>Under construction&amp;hellip;</description>
+      <description>Publications    2021    Chupina, I., Sierpowska, J., Zheng, X., Dewenter, A., Piastra, M. C., &amp;amp; Piai, V. Right-hemisphere compensation during word production: A single case of left-hemisphere young stroke.
+PsyArXiv
+Hustá, C., Zheng, X., Papoutsi, C., &amp;amp; Piai, V. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. Neuropsychologia, 107988.
+DOI PDF Open data
+2020    Piai, V., De Witte, E., Sierpowska, J.</description>
     </item>
     
   </channel>
