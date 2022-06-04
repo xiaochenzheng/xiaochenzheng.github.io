@@ -33,7 +33,7 @@ Cannot risk any auto-reply? Then check the homepage and hope you will figure out
       
       <guid>http://xiaochenzheng.github.io/cv/</guid>
       <description>CV    Wanna know more? You can find my CV here.
-Last updated 8 May 2022.
+Last updated 4 June 2022.
   #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
@@ -52,14 +52,14 @@ Last updated 8 May 2022.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/publications/</guid>
-      <description>Publications    2021    Right-hemisphere compensation during word production: A single case of left-hemisphere young stroke
-Irina Chupina, Joanna Sierpowska, Xiaochen Zheng, Anna Dewenter, Maria Carla Piastra, Vitória Piai
-PsyArXiv
-Electrophysiological signatures of conceptual and lexical retrieval from semantic memory
-Cecília Hustá, Xiaochen Zheng, Christina Papoutsi, Vitória Piai
-Neuropsychologia
-DOI PDF Open data
-2020    Language neuroplasticity in brain tumor patients revealed by magnetoencephalography</description>
+      <description>Publications    2022    Un-rejectable-ish: Learning and generalization of novel compositional meanings
+Xiaochen Y. Zheng, Mona M. Garvert, Jonne Roelofs, Hanneke E. M. den Ouden, Roshan Cools
+Conference Proceeding at The 5th Multi-disciplinary Conference on Reinforcement Learning and Decision Making
+PDF
+Midfrontal theta is associated with errors, but no evidence for a link with error-related memory
+Xiaochen Y. Zheng, Syanah. C. Wynn
+BioRXiv
+2021    Right-hemisphere compensation during word production: A single case of left-hemisphere young stroke</description>
     </item>
     
   </channel>
