@@ -33,7 +33,7 @@ Cannot risk any auto-reply? Then check the homepage and hope you will figure out
       
       <guid>http://xiaochenzheng.github.io/cv/</guid>
       <description>CV    Wanna know more? You can find my CV here.
-Last updated 17 July 2024.
+Last updated 23 August 2024.
   #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
@@ -43,7 +43,9 @@ Last updated 17 July 2024.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/projects/</guid>
-      <description>Projects    Neural Mechanisms of Generalization and Novel Inference    The ability to generalize previously learned information to novel situations is fundamental for adaptive behavior. When seeing the word “un-reject-able-ish” for the first time, one can quickly infer its meaning by generalizing the knowledge of its constituent parts and integrating them based on certain abstract structural rules (e.g., the sequential order of the word parts). How do we generate novel, compositional meaning?</description>
+      <description>Projects    ##The age of information overload: how do we control what we say?
+This research is funded by a Veni grant (€320,000) from the Dutch Research Council (NWO)
+We have all been there: you are in the middle of saying something, and suddenly a notification pops up on your phone. Your attention shifts momentarily and you lose track of what you were going to say. In our information-saturated world, it is challenging to avoid all the distractions surrounding us while speaking.</description>
     </item>
     
     <item>
