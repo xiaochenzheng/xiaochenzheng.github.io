@@ -33,7 +33,7 @@ Cannot risk any auto-reply? Then check the homepage and hope you will figure out
       
       <guid>http://xiaochenzheng.github.io/cv/</guid>
       <description>CV    Wanna know more? You can find my CV here.
-Last updated 23 September 2025.
+Last updated 4 November 2025.
   #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
@@ -53,14 +53,15 @@ We have all been there: you are in the middle of saying something, and suddenly 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://xiaochenzheng.github.io/publications/</guid>
-      <description>Publications    2025    Neural oscillations in the aging brain associated with interference control in word production
+      <description>Publications    2025    Abstract rule generalization for composing novel meaning recruits the frontoparietal control network
+Xiaochen Y. Zheng, Mona M. Garvert, Hanneke E. M. den Ouden, Lisa I. Horstman, David Richter, Roshan Cools
+Imaging Neuroscience
+DOI PDF Open data
+Neural oscillations in the aging brain associated with interference control in word production
 Xiaochen Y. Zheng, Vitória Piai
 Neurobiology of Language
 DOI PDF Open data
-2024    Abstract rule generalization for composing novel meaning recruits the frontoparietal control network
-Xiaochen Y. Zheng, Mona M. Garvert, Hanneke E. M. den Ouden, Lisa I. Horstman, David Richter, Roshan Cools
-bioRxiv
-This Paper is “Un-reject-able-ish”: Learning and Generalization of Novel Compositional Meanings</description>
+2024    This Paper is “Un-reject-able-ish”: Learning and Generalization of Novel Compositional Meanings</description>
     </item>
     
   </channel>
